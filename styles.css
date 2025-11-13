@@ -18,7 +18,7 @@ html, body {
   height: 100%;
   position: relative;
   overflow: hidden;
-  background-image: url("https://github.com/margareypola-coder/nueva-narrativa-multimedia-paramo-paraCSS/blob/74b438a7344f68540d0c823da1f8406033d6d7a9/assets/FONDO%20HOME.png");
+  background-image: url("assets/FONDO HOME.png");
   background-size: cover;
   background-position: center;
 }
